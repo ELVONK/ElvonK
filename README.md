@@ -35,7 +35,7 @@ With a background in software engineering and hands-on experience in systems adm
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/elvis-kemboi60799372)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/elvis-kemboi-60799372)  
 - 🧠 Exploring AI tools on [ChatGPT](https://chat.openai.com/)
 - 💻 Open to collaboration, freelance, or full-time opportunities in tech & innovation
 
