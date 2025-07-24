@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Elvis Kemboi
+# 👋 Hi, I'm Elvis Kemboi
 
 🌐 **Tech enthusiast | Software Developer | AI Explorer | ICT Professional**
 
@@ -14,7 +14,7 @@ With a background in software engineering and hands-on experience in systems adm
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, HTML/CSS, Bash
+- **Languages:** Python, JavaScript, C#, Bash, PHP
 - **Frameworks & Tools:** Streamlit, Flask, Selenium, Playwright, GitHub Actions, OpenCV
 - **Data & Automation:** Pandas, Excel Automation, PowerPoint generation, Web Scraping
 - **DevOps & Deployment:** Git, GitHub, Docker (beginner), CI/CD with GitHub Actions
